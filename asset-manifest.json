@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Fast-Everything-landing-page/static/css/main.1e7eed48.chunk.css",
+    "main.js": "/Fast-Everything-landing-page/static/js/main.8e025b22.chunk.js",
+    "main.js.map": "/Fast-Everything-landing-page/static/js/main.8e025b22.chunk.js.map",
+    "runtime-main.js": "/Fast-Everything-landing-page/static/js/runtime-main.e6c4a2ec.js",
+    "runtime-main.js.map": "/Fast-Everything-landing-page/static/js/runtime-main.e6c4a2ec.js.map",
+    "static/js/2.4beb053a.chunk.js": "/Fast-Everything-landing-page/static/js/2.4beb053a.chunk.js",
+    "static/js/2.4beb053a.chunk.js.map": "/Fast-Everything-landing-page/static/js/2.4beb053a.chunk.js.map",
+    "index.html": "/Fast-Everything-landing-page/index.html",
+    "precache-manifest.e00d6976a010afd38e7848bc44b4fe6c.js": "/Fast-Everything-landing-page/precache-manifest.e00d6976a010afd38e7848bc44b4fe6c.js",
+    "service-worker.js": "/Fast-Everything-landing-page/service-worker.js",
+    "static/css/main.1e7eed48.chunk.css.map": "/Fast-Everything-landing-page/static/css/main.1e7eed48.chunk.css.map",
+    "static/js/2.4beb053a.chunk.js.LICENSE.txt": "/Fast-Everything-landing-page/static/js/2.4beb053a.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Fast-Everything-landing-page/static/media/BG_Pattern.29313d16.png",
+    "static/media/Runner.png": "/Fast-Everything-landing-page/static/media/Runner.4f33cf2b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c4a2ec.js",
+    "static/js/2.4beb053a.chunk.js",
+    "static/css/main.1e7eed48.chunk.css",
+    "static/js/main.8e025b22.chunk.js"
+  ]
+}
