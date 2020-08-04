@@ -1,0 +1,40 @@
+@media(max-width: 900px){
+    .App{
+        background: url('../img/BG.jpg');
+        background-size: cover;
+    }
+    .pattern{
+        display: none;
+    }
+    .runner{
+        img{
+            display: none;
+        }
+    }
+    .title-1,.title-2{
+        font-size: 50px;
+    }
+    .title-1{
+        left: 20%;
+        top: 40%;
+    }
+    .title-2{
+        left: 50%;
+        z-index: 1;
+    }
+    .menu{
+        display: none;
+    }
+    .contact p{
+        display: none;
+    }
+    .box-2{
+        top: 70%;
+    }
+    .contact button{
+        position: fixed;
+        right: 3em;
+        bottom: 4em;
+        z-index: 1;
+    }
+}
